@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mExampleSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBooleans[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should equal if both are true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should equal if both are false[0m[0m

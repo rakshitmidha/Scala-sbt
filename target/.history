@@ -1,0 +1,36 @@
+compile
+show sacalV
+show scalaVersion
+reload
+compile
+show scalaVersion
+reload
+compile
+show scalaVersion
+reload
+compile
+reload
+compile
+reload
+compile
+test
+reload
+test
+reload
+compile
+reload
+compile
+reload
+compile
+reload
+show buildNumber
+reload
+show buildNumber
+inspect version
+reload
+compile
+validate
+reload
+validate
+scalafmt
+validate
